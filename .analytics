@@ -1,0 +1,4 @@
+timestamp=[2021-12-03 11:35:07], mode=WORKBENCH_START, duration=0:00:05.667, duration_ms=5667, data={}
+timestamp=[2021-12-03 11:35:07], mode=WORKBENCH_UI_INIT, duration=0:00:00.395, duration_ms=395, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2021-12-03 11:35:07], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.323, duration_ms=323, data={}
+timestamp=[2021-12-03 11:35:53], mode=APP_CREATION, duration=0:00:04.402, duration_ms=4402, data={name=lu_decomposition, project_type=datacenter, os=NA, processor=null, runtime=OpenCL, platform=xilinx_u250_gen3x16_xdma_3_1_202020_1, application_type=application}
